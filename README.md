@@ -1,5 +1,5 @@
 # SDM
-SDM -Sparse Distributed Memory - Rede Neural sem peso
+Rede Neural sem peso SDM -Sparse Distributed Memory 
 
 Memória distribuída esparsa (SDM) é um modelo matemático correlacionado com a memória de longo prazo introduzido por Pentti Kanerva em 1988, enquanto ele estava na NASA Ames Research Center . É uma memória de acesso aleatório (RAM)generalizada. 
 
